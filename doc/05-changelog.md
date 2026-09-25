@@ -10,7 +10,7 @@
 
 ### Problem with Tampermonkey approach:
 
-1. **`event.isTrusted = false`** — `dispatchEvent()` দিয়ে পাঠানো click असली click-এর মতো detect হয় না।
+1. **`event.isTrusted = false`** — `dispatchEvent()` দিয়ে পাঠানো click real click-এর মতো detect হয় না।
 2. **WebSocket prototype patching** — `window.WebSocket` কে modify করা detectable।
 3. **Extension detection** — Tampermonkey-এর presence detectable।
 
