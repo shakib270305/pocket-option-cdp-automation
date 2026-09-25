@@ -22,11 +22,11 @@ A pure Chrome DevTools Protocol (CDP) based automation controller for Pocket Opt
 
 ## Documentation
 
-- [Installation Guide](docs/01-installation.md)
-- [Chrome CDP Setup](docs/02-chrome-cdp-setup.md)
-- [Usage Guide](docs/03-usage.md)
-- [Troubleshooting](docs/04-troubleshooting.md)
-- [Development Log](docs/05-changelog.md)
+- [Installation Guide](doc/01-installation.md)
+- [Chrome CDP Setup](doc/02-chrome-cdp-setup.md)
+- [Usage Guide](doc/03-usage.md)
+- [Troubleshooting](doc/04-troubleshooting.md)
+- [Development Log](doc/05-changelog.md)
 
 ## License
 
