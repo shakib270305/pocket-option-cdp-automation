@@ -1,0 +1,25 @@
+{
+  "name": "pocket-option-cdp-automation",
+  "version": "1.2.0",
+  "description": "CDP-based automation controller for Pocket Option (demo/educational)",
+  "main": "src/po-auto.js",
+  "scripts": {
+    "start": "node src/po-auto.js",
+    "launch-chrome": "bash scripts/launch-chrome.sh"
+  },
+  "keywords": [
+    "cdp",
+    "pocket-option",
+    "automation",
+    "education",
+    "chrome-devtools-protocol"
+  ],
+  "author": "shakib270305",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chrome-remote-interface": "^0.33.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
